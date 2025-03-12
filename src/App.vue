@@ -1,5 +1,6 @@
 <script setup>
 import { ref, onMounted } from "vue";
+import Vue from "https://unpkg.com/vue@3/dist/vue.esm-browser.js";
 
 const showintro = ref(true);
 
